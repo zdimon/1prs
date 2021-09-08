@@ -1,0 +1,48 @@
+name = 'Дима'
+age = 23
+
+10000000 - 256 
+
+
+human1 
+    head
+        nose
+        ears
+            one
+            two
+    body
+
+[1,2,3,4]
+
+human2 = {
+    head: {ears: [one0,two1]}, 
+    body: {}
+
+}
+human2.head.ears[1]
+[
+{...},
+{}
+]
+
+json
+
+<human>
+    <head>
+        <ears>
+          <div color="red" >это ухо</div>
+        </ears>
+    </head>
+</human>
+
+xml -> html 
+
+
+    
+
+
+
+
+
+
+
